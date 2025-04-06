@@ -53,6 +53,4 @@ dependencies:
   http: ^0.13.6
 
 
----
 
-Let me know if you want a version with images/screenshots linked, or if you’d like a `.md` file download version or PDF ready-to-go!
